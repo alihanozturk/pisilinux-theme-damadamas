@@ -12,4 +12,3 @@ DamaDamas Look & Feel package.
 * DamaDamas wallpaper
 
 ![Alt text](/lookandfeel/contents/previews/preview.png?raw=true)
-# pisilinux-theme-damadamas
